@@ -1,6 +1,3 @@
-# ember-twiddles
-Useful ember twiddle links
-
 ## Routing / transitions
 
 ### Async + sync route model hook 

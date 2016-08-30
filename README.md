@@ -11,3 +11,7 @@ https://ember-twiddle.com/74f996281588b7837807c9da0c177400
 #### 'wait' helper for async actions
 
 https://til.hashrocket.com/posts/851fb1e6f7-using-the-wait-helper-in-ember-integration-tests
+
+## Ember Data
+
+https://ember-twiddle.com/f51b548e37252344a6c0ddf639fe4e96?openFiles=serializers.user.js%2C

@@ -4,6 +4,9 @@
 Returning a promise vs object in the model hook, loading templates, resolving promises in a portion of a template
 https://ember-twiddle.com/74f996281588b7837807c9da0c177400
 
+### The nearly undocumented queryParamsDidChange
+https://github.com/emberjs/ember.js/blob/01110cb48f224790e717a15a0e5525e793ec5e23/packages/ember-routing/lib/system/route.js#L800
+
 ## Testing
 
 ### Integration

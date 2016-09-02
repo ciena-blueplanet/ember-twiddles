@@ -23,3 +23,8 @@ https://til.hashrocket.com/posts/851fb1e6f7-using-the-wait-helper-in-ember-integ
 ## Ember Data
 
 https://ember-twiddle.com/f51b548e37252344a6c0ddf639fe4e96?openFiles=serializers.user.js%2C
+
+## Mechanics
+
+### Execution order of init from multiple mixins
+https://ember-twiddle.com/516529ad06c87d185ae98c89e396ace1?openFiles=mixins.first.js%2Ctemplates.components.my-component.hbs

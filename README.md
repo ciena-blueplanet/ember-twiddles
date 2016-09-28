@@ -28,3 +28,7 @@ https://ember-twiddle.com/f51b548e37252344a6c0ddf639fe4e96?openFiles=serializers
 
 ### Execution order of init from multiple mixins
 https://ember-twiddle.com/516529ad06c87d185ae98c89e396ace1?openFiles=mixins.first.js%2Ctemplates.components.my-component.hbs
+
+## Ghetto occlusion
+
+https://gist.github.com/sglanzer/2420939916a1cd00472c13ebe587c544

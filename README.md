@@ -32,3 +32,7 @@ https://ember-twiddle.com/516529ad06c87d185ae98c89e396ace1?openFiles=mixins.firs
 ## Ghetto occlusion
 
 https://gist.github.com/sglanzer/2420939916a1cd00472c13ebe587c544
+
+## Laying out an array of component helpers using flex
+
+https://ember-twiddle.com/1822ab7d542884b90c7d3a83dc21e8e8

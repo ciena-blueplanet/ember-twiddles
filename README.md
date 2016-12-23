@@ -39,3 +39,9 @@ https://gist.github.com/sglanzer/2420939916a1cd00472c13ebe587c544
 ## Laying out an array of component helpers using flex
 
 https://ember-twiddle.com/1822ab7d542884b90c7d3a83dc21e8e8
+
+## SVG
+
+### Element focus
+
+https://ember-twiddle.com/a23fc64300f3ff9c3d0c029d7dde9b26?openFiles=components.svg-anchor.js%2Ctemplates.components.svg-anchor.hbs

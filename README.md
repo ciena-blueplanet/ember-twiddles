@@ -15,6 +15,9 @@ https://gist.github.com/jpadilla/30a6eedf3516fb13f9abbee325404171
 ### Set an arbitrary number of properties against a component using a single object hash
 https://ember-twiddle.com/209d2ea37fb773b47c794e9feda115a7?openFiles=templates.application.hbs%2Ctemplates.components.my-component.hbs
 
+### Closure functions in lieu of the action helper
+https://ember-twiddle.com/5a23a521d3e5a9076e348f1650dcac27?openFiles=controllers.application.js%2Ctemplates.components.my-component.hbs
+
 ## Testing
 
 ### Integration
